@@ -24,4 +24,10 @@ This project creates a simple AWS Lambda function that prints "Hello, World!" an
 - Ensure the IAM role passed to Lambda has basic execution permissions.
 - The CloudWatch Event rule is named `hello-schedule`.
 
-## Example Output
+## FIle form 
+lambda-hello-world/
+├── lambda_function.py
+├── requirements.txt
+├── Jenkinsfile
+└── README.md
+
